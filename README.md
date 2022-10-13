@@ -1,4 +1,2 @@
-iiiiiiiiii
-oooooooooo
-
+fugahogepiyo
 # git-practice2
